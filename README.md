@@ -14,7 +14,6 @@ This project aims to develop a high-performance machine learning model that can 
 - [Results](#results)
 - [Discussion](#discussion)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -69,7 +68,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Commit your changes (`git commit -m 'Add your new feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
