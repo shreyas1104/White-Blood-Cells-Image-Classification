@@ -31,7 +31,7 @@ The project utilizes the BCCD (Blood Cell Count and Detection) Dataset, which is
 
 1. Clone the repository: `git clone https://github.com/shreyas1104/White-Blood-Cells-Image-Classification.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Download the dataset from `https://tinyurl.com/blood-cell-data` and extract it to the `data/` directory.
+3. Download the dataset from `https://www.kaggle.com/datasets/paultimothymooney/blood-cells/discussion/63703` and extract it to the `data/` directory.
 
 ## Usage
 
